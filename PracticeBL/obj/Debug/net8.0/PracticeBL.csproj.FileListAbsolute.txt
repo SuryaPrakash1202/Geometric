@@ -1,0 +1,11 @@
+D:\Practice C#\PRACTICE\PracticeBL\bin\Debug\net8.0\PracticeBL.deps.json
+D:\Practice C#\PRACTICE\PracticeBL\bin\Debug\net8.0\PracticeBL.dll
+D:\Practice C#\PRACTICE\PracticeBL\bin\Debug\net8.0\PracticeBL.pdb
+D:\Practice C#\PRACTICE\PracticeBL\obj\Debug\net8.0\PracticeBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice C#\PRACTICE\PracticeBL\obj\Debug\net8.0\PracticeBL.AssemblyInfoInputs.cache
+D:\Practice C#\PRACTICE\PracticeBL\obj\Debug\net8.0\PracticeBL.AssemblyInfo.cs
+D:\Practice C#\PRACTICE\PracticeBL\obj\Debug\net8.0\PracticeBL.csproj.CoreCompileInputs.cache
+D:\Practice C#\PRACTICE\PracticeBL\obj\Debug\net8.0\PracticeBL.dll
+D:\Practice C#\PRACTICE\PracticeBL\obj\Debug\net8.0\refint\PracticeBL.dll
+D:\Practice C#\PRACTICE\PracticeBL\obj\Debug\net8.0\PracticeBL.pdb
+D:\Practice C#\PRACTICE\PracticeBL\obj\Debug\net8.0\ref\PracticeBL.dll
